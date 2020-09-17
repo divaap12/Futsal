@@ -3,26 +3,26 @@
 			[
 				{
 					"id":1,
-					"nama":"Happy Puppy Purwokerto",
-					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"nomor_telp":"+62281628000",
-					"kordinat":"-7.417284, 109.244905",
-					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"jam":"Buka 24jam",
+					"nama":"Score Futsal DukuhWaluh",
+					"alamat":"Dusun II, Dukuhwaluh, Kec. Kembaran, Kabupaten Banyumas, Jawa Tengah 53182",
+					"nomor_telp":"-",
+					"kordinat":"-7.4085749,109.269051",
+					"gambar_url":"https://uorunsoed.files.wordpress.com/2019/05/whatsapp-image-2019-05-09-at-10.24.42.jpeg",
+					"tarif":"-",
+					"jam":"10.00 - 00.00",
 					"desc":"coba-coba",
 					"fasilitas":"Tidak ada keterangan"
 				},
 
 				{
 					"id":2,
-					"nama":"The President",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
-					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
-					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
+					"nama":"Orion Futsal Purwokerto",
+					"alamat":"Jl. Wahid Hasyim No.102, Windusara, Karangklesem, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53144",
+					"nomor_telp":"+6285741001908",
+					"kordinat":"-7.4459589,109.2432626",
+					"gambar_url":"https://www.indosport.com/views/1/images/tempat_olahraga/orion_2.jpg",
 					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"jam":"Buka 24jam",
+					"jam":"09.00 - 22.00",
 					"desc":"coba-coba",
 					"fasilitas":"Tidak ada keterangan"
 				}
